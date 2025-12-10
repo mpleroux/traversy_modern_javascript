@@ -2,7 +2,7 @@
 
 ## Description
 
-These are the local files I created while following the full 38 hour Traversy Media course "Modern JavaScript From The Beginning 2.0." The first part is available on YouTube at [React Crash Course](https://www.youtube.com/watch?v=BI1o2H9z9fo).
+These are the local files I created while following the full 38 hour Traversy Media course [Modern JavaScript From The Beginning 2.0](https://www.traversymedia.com/modern-javascript-2-0).
 
 - [Project repository](https://github.com/bradtraversy/javascript-sandbox)
 
