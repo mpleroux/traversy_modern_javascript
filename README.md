@@ -16,9 +16,13 @@ I cloned the project repo to start each lesson with scaffolding like HTML files 
 
 Everything is run locally using the Live Server VSCode extension.
 
+## Projects
+
+- [Shopping List](https://traversy-modern-javascript.netlify.app/08-shopping-list-project/shopping-list-start/)
+
 ## Ch. 8: Shopping List Project
 
-When testing version deployed on Netlify don't forget to add subdirectories to URL (i.e. [Shopping List](https://traversy-modern-javascript.netlify.app/08-shopping-list-project/shopping-list-start/))
+When testing version deployed on Netlify, don't forget to add subdirectories for chapter projects (i.e. [Shopping List](https://traversy-modern-javascript.netlify.app/08-shopping-list-project/shopping-list-start/))
 
 ## Project demos
 
